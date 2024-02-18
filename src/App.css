@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "MasterCard"; /* Provide a name for your font */
+  src: url("./assets/fonts/MarkForMC.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+* {
+  font-family: "MasterCard", sans-serif;
+  text-decoration: none;
+}
